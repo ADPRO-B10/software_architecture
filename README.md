@@ -1,2 +1,5 @@
 # REVIEW CLASS DIAGRAM
-![Review.png](..%2FReview.png)
+![Review.png](Review.png)
+
+# REVIEW COMPONENT DIAGRAM
+![ComponentDiagram.png](ComponentDiagram.png)
