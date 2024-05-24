@@ -3,7 +3,8 @@
 ## 1. The current architecture of group …. , the context, container and deployment diagram
 
 ### Context Diagram
-![image](https://github.com/ADPRO-B10/software_architecture/assets/112263712/9f15afa1-1ef6-4936-a7fd-a15f92ad52b9)
+![CONTEXT DIAGRAM](https://github.com/ADPRO-B10/software_architecture/assets/112263712/a1dc0349-8670-4d4e-8efe-81563b7fb91d)
+
 
 
 ![alt text](current.png)
