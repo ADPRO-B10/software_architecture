@@ -10,8 +10,7 @@
 ![alt text](current.png)
 
 ## 2. The future architecture of group …
-![FUTURE ARCHITECTURE](https://github.com/ADPRO-B10/software_architecture/assets/112263712/63fbc5d4-63c1-40c7-a12f-0a414e02a6bb)
-
+![FUTURE ARCHITECTURE (1)](https://github.com/ADPRO-B10/software_architecture/assets/112263712/fa11d842-7680-455f-b501-f31b649277e8)
 
 ## 3. Explanation of risk storming of group …
 ## 4. 
